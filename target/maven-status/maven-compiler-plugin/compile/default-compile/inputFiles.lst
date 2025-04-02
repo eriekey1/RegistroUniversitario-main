@@ -1,0 +1,12 @@
+C:\Users\Windows 11\UMSA\BACKEND\RegistroUniversitario-main\src\main\java\com\universidad\controller\EstudianteController.java
+C:\Users\Windows 11\UMSA\BACKEND\RegistroUniversitario-main\src\main\java\com\universidad\dto\DocenteDTO.java
+C:\Users\Windows 11\UMSA\BACKEND\RegistroUniversitario-main\src\main\java\com\universidad\dto\EstudianteDTO.java
+C:\Users\Windows 11\UMSA\BACKEND\RegistroUniversitario-main\src\main\java\com\universidad\dto\MateriaDTO.java
+C:\Users\Windows 11\UMSA\BACKEND\RegistroUniversitario-main\src\main\java\com\universidad\model\Docente.java
+C:\Users\Windows 11\UMSA\BACKEND\RegistroUniversitario-main\src\main\java\com\universidad\model\Estudiante.java
+C:\Users\Windows 11\UMSA\BACKEND\RegistroUniversitario-main\src\main\java\com\universidad\model\Materia.java
+C:\Users\Windows 11\UMSA\BACKEND\RegistroUniversitario-main\src\main\java\com\universidad\model\Persona.java
+C:\Users\Windows 11\UMSA\BACKEND\RegistroUniversitario-main\src\main\java\com\universidad\repository\EstudianteRepository.java
+C:\Users\Windows 11\UMSA\BACKEND\RegistroUniversitario-main\src\main\java\com\universidad\service\IEstudianteService.java
+C:\Users\Windows 11\UMSA\BACKEND\RegistroUniversitario-main\src\main\java\com\universidad\service\impl\EstudianteServiceImpl.java
+C:\Users\Windows 11\UMSA\BACKEND\RegistroUniversitario-main\src\main\java\com\universidad\UniversidadApplication.java

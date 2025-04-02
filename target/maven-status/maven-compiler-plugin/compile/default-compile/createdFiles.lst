@@ -1,0 +1,10 @@
+com\universidad\service\IEstudianteService.class
+com\universidad\model\Estudiante.class
+com\universidad\dto\MateriaDTO.class
+com\universidad\dto\EstudianteDTO.class
+com\universidad\dto\DocenteDTO.class
+com\universidad\model\Persona.class
+com\universidad\model\Docente.class
+com\universidad\UniversidadApplication.class
+com\universidad\controller\EstudianteController.class
+com\universidad\model\Materia.class
